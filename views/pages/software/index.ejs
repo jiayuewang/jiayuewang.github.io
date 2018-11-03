@@ -1,0 +1,132 @@
+<% var rootPath = '../../'; %>
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <%- include(rootPath + 'partials/includes'); %>
+    </head>
+    <body>
+        <%- include(rootPath + 'partials/nav'); %>
+        <link rel="stylesheet" href="css/page.css">
+
+        <div class="homeImg container-fluid">
+            <div class="homeDiv center container">
+                <h1 class="titleMain cenX">CODE REPOSITORY</h1>
+
+                <div class="row rowBackSS"></div>
+                <h3 class="subTitle" id="here">Full Stack | Back End | Machine Learning | PM</h3>
+            </div>
+
+            <div class="homeSouth">
+                <h4><a class="stealthLink subTitle pad0" href="#">VIEW PROJECTS</a></h4>
+                <button class="smoothScrollBtn" type="button"><img src="/images/Down-Arrow.png" width="30"/></button>
+            </div>
+        </div>
+
+        <a class="anchor" id="top"></a>
+
+        <div class="container-fluid sec temp">
+            <div class="container">
+                <div class="borderProj">
+                    <a href="timelapse-auto-ramp" class="noColor">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-12">
+                                <span class="helper"></span><img src="timelapse-auto-ramp/results/thumbs/sunset-cmp.jpg" class="projImg"></img>
+                            </div>
+                            <div class="projText col-lg-8 col-md-12">
+                                <h3 class="regTitle">CAMPUS TRADING | FULL STACK</h3>
+                                <p class="subP pad0 italic">a photoshop plugin</p>
+                                <!-- <?php
+                                    $content = " Designed a RESTful web application version for goods exchanging,Grouped over 30k Customers and growing. Achieved Gin framework and Swagger Framework to make React-Golang-Auth.
+
+                                    $content = substr($content, 0, 302) . " ...";
+
+                                    echo '<p class="subP desc" data-desc="timelapse-auto-ramp">' . $content . '</p>';
+
+                                 ?> -->
+                                 <p class="subP desc" data-desc="timelapse-auto-ramp"></p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="borderProj">
+                    <a href="pathfinding" class="noColor">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-12">
+                                <span class="helper"></span><img src="images/standard-fix.gif" class="projImg"></img>
+                            </div>
+                            <div class="projText col-lg-8 col-md-12">
+                                <h3 class="regTitle">Speech and Video Recognition Capstone | AI</h3>
+                                <!-- <?php
+                                    $content = "Designed a framework for Speech recognition, Implement the user requirements of a voice-to-voice translation system automatic extraction of metadata to make video searchable and navigable.";
+
+                                    $content = substr($content, 0, 302) . " ...";
+
+                                    echo '<p class="subP desc">' . $content . '</p>';
+                                 ?> -->
+                                 <p class="subP desc" data-desc="pathfinding"></p>
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid backDark sec">
+            <div class="container">
+                <h3 class="subTitle white">SLECTED INTERN</h3>
+                 <p class="subText white extPad">
+                     My previous work at Baidu.inc, I worked implemented three micro services in Baidu self-driving car, built a web application demo to process and display real-time Microservices..</p>
+            </div>
+        </div>
+
+        <div class="container-fluid sec">
+            <div class="container">
+                <h3 class="subTitle">TECHNICAL SKILLS</h3>
+                <h3 class="subTitle">Full-Stack Development</h3>
+                <p class="subP">Different Framworks.<br/><br/>
+                     React, Java, Golang , Node.js, WebSocket, RabbitMQ, Express.js <a href="/software#top">here.</a></p>
+            </div>
+
+            <div class="container">
+                <h3 class="subTitle">Cloud with Machine Learning</h3>
+                <p class="subP"> Spring Boot, Spring Cloud, Netflix OSS, Maven, Mybatis, Tomcat, Shell, AWS. From my second year, I Worked with Amazon AWS team in National Center for Supercomputing Applications(NCSA) on different Research Projects, such as, Created Face recognition. (Kinesis, ReKognition). Created an academic success tracker for students. Developed social media analytics tools and video recognition tools. (Machin learning on Cloud) https://will.illinois.edu/highlights/story/hey-alexa..</p>
+            </div>
+
+            <div class="container">
+                <h3 class="subTitle">Back End Microservices </h3>
+                <p class="subP"> I Built a web application Micro-services “Self-Driving car” to process and display real-time Maps. Uploading pre-defined locations and status from JSON file, desterilize to JSON object, and store into database. (Spring Boot, Spring Cloud, Netflix OSS). Consume current locations from locations queue, RabbitMQ. Setup WebSocket connect and push locations to Client. https://github.com/jiayuewang/RealTimeLocation-WebApp..</p>
+
+            </div>
+
+            <div class="container">
+                <h3 class="subTitle">Machine Learning</h3>
+                <p class="subP"> Achieved deep Learning compression on CNN, RNN and LSTM. Prune away parameters on NLP in my 2018 Internship. Compression Algorithms on CNN, AlexNet and VGGNet with ImageNet 35X~50X. including weights sharing and Huffman coding. (TensorFlow, Python, Caffe, Python, Linux) Iteratively finding its achievable sparsity for each layer, prune away 86% parameters. Submitted Publication, AAAI 2019.   https://github.com/jiayuewang/Compressiom-with-CNN-RNN-SLT.</p>
+            </div>
+        </div>
+
+        <div class="container-fluid btnLinks extPad">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-4 bot">
+                        <div class="leftCenter">
+                            <h3 class="sub2">FOUND A BUG?</h3>
+                            <p class="subText">Let me know</p>
+                            <a class="btn btn-success btn-lg w100" href="https://github.com/jiayuewang" role="button">Github</a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 bot">
+                        <div class="leftCenter">
+                            <h3 class="sub2">CONTRIBUTE</h3>
+                            <p class="subText">Take part in the project</p>
+                            <a class="btn btn-secondary btn-lg w100" href="/contact" role="button">Contact Me</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <%- include(rootPath + 'partials/footer'); %>
+        <script type="text/javascript" src="scripts/shift.js"></script>
+        <script type="text/javascript" src="/scripts/fetchDesc.js"></script>
+    </body>
+</html>
