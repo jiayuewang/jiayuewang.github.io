@@ -13,6 +13,6 @@ $(window).resize(titleShift);
 
 function titleShift() {
     if($(window).width() < 500) {
-        $(".homeDiv .subTitle").html("JAVA | C | ARDUINO | ASSEMBLY | WEB");
+        $(".homeDiv .subTitle").html("RESTful API | Machine Learning Research | Social Media | Start-Up experience");
     }
 }
