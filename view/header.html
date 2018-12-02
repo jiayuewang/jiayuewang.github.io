@@ -1,0 +1,87 @@
+  
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Chrome">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="The ">
+  <meta name="author" content="Jue Hou">
+  <!-- jQuery -->
+  <script src="<?= BASE_URL ?>/js/jquery.js"></script>  
+  
+
+  
+  <title>Trade Master | <?= $pageName ?></title>
+  
+
+  <!-- Bootstrap Core CSS -->
+  <link href="<?= BASE_URL ?>/css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?= BASE_URL ?>/css/general.css" rel="stylesheet">
+
+  <script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
+  <script src="https://npmcdn.com/bootstrap@4.0.0-alpha.5/dist/js/bootstrap.min.js"></script>
+
+  <!-- Custom CSS -->
+  <link href="<?= BASE_URL ?>/css/business-casual.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+  <!-- Fonts -->
+
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
+
+  <!-- Bootstrap Core JavaScript -->
+  <script src="<?= BASE_URL ?>/js/bootstrap.min.js"></script>
+
+
+  <script type="text/javascript">
+    var baseURL = '<?= BASE_URL ?>';
+  </script>
+
+</head>
+
+<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+  <ul class="navbar-nav">
+    <?php if($pageName == 'Welcome'): ?>
+      <li class="nav-item active">
+      <a class="nav-link" href="<?= BASE_URL ?>/login">Login/Register</a>
+    </li>
+    <?php elseif($pageName != 'Login' && $pageName != 'Login Required'): ?>
+    <li class="nav-item active">
+      <a class="nav-link" href="<?= BASE_URL ?>/home">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="<?= BASE_URL ?>/discussion">Discussion</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="<?= BASE_URL ?>/market">Market</a>
+    </li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Your Profile
+      </a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+        <a class="dropdown-item" href="<?= BASE_URL ?>/membership">Membership</a>
+        <a class="dropdown-item" href="#">Your Stock</a>
+        <a class="dropdown-item" href="#">Your Message</a>
+        <a class="dropdown-item" href="<?= BASE_URL ?>/profile">Profile</a>
+        <a class="dropdown-item" href="<?= BASE_URL ?>/logout/process">Log Out</a>
+      </div>
+    </li>
+    <?php endif; ?>
+  </ul>
+</nav>
+
+
+
+
+
+  
+
+  
+
+

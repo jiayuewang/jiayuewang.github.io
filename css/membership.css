@@ -1,0 +1,104 @@
+body {background-color: floralwhite;}
+/* Style the header */
+.header {
+    background-color: floralwhite;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+    float: left;
+    padding: 15px;
+    padding: 14px 16px;
+    /*border: 3px solid #73AD21; */
+}
+
+/* Left and right column */
+.column.side {
+    width: 25%;
+    padding: 30px;
+}
+
+/* Middle column */
+.column.middle {
+    width: 70%;
+    padding: 30px;
+}
+
+.stockshow {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .column.side, .column.middle {
+        width: 100%;
+    }
+}
+
+.pagination {
+    display: inline-block;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+}
+
+.pagination a.active {
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #4CAF50;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+#market {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#market td, #market th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#market tr:nth-child(even){background-color: #f2f2f2;}
+
+#market tr:hover {background-color: #ddd;}
+
+#market th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #f2f2f2;
+    color: #333;
+}
+#myInput {
+    /*background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+    background-position: 10px 12px; /* Position the search icon */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 100%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+}
+
+
+
+
+

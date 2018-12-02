@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trade</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Chrome">
+    <meta name="viewport" content="width=device-width, initial-scale=1.">
+    <meta name="description" content="Trade">
+
+    <link rel="stylesheet" href="css/membership.css" />
+
+    <script src="js/stock_info.js"> </script>
+</head>
+<div class="trade" style="background-color: floralwhite;">
+    <body >
+    <!-- This is a comment -->
+    <!-- Do not display this at the moment
+    <img border="0" src="pic_mountain.jpg" alt="Mountain">
+    -->
+
+    <div class="row" >
+        <div class="column middle">
+            <h2><a href="#">Trade Your Stock</a></h2>
+            <form action="<?= BASE_URL ?>/trade/process" method="POST">
+            <table  bgcolor="#ddd" class="table" align="center">
+                <tr>
+                    <th>Ticker Symbol</th>
+                    <th><input type="text" name="tradetickersymbol"></th>
+                </tr>
+                <tr>
+                    <th>Quantity</th>
+                    <th><input type="text" name="quantity"></th>
+                </tr>
+                <tr>
+                    <th>Price</th>
+                    <th><input type="text" name="price"></th>
+                </tr>
+                <tr>
+                    <th><input type="submit" name ="buyorsell" value="Buy"></th>
+                    <th><input type="submit" name ="buyorsell" value="Sell"></th>
+                </tr>
+
+                <tbody></tbody>
+            </table>
+            </form>
+            <p>&nbsp;</p>
+
+            <p>&nbsp;</p>
+
+            <p>&nbsp;</p>
+
+            <p>&nbsp;</p>
+        </div>
+
+    </div>
+
+
+    </body>
+</div>
+</html>
+
+
