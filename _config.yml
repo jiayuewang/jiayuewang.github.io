@@ -1,5 +1,5 @@
 # Site settings
-title: Anna(Jiayue) Wang
+title: Anna Wang
 SEOTitle: Jiayue Wang's blog | Anna Blog
 header-img: img/home-bg.jpg
 email: wangjiayue57@gmail.com
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     jiayuewang
-zhihu_username:     jiayuewang
+weibo_username:     I don't have weibo
+zhihu_username:     I don't have zhihu
 github_username:    jiayuewang
-twitter_username:   jiayuewang
+twitter_username:   I don't have twitter
 #facebook_username:  Anna jiayuewang
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: anna
 
 # Netease settings
 netease_comment: false
@@ -72,13 +72,13 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: https://jiayuewang.github.io
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "For the next quantum leap<br> Love my life"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -101,7 +101,7 @@ page-mathjax: false
 
 
 # Friends
-friends: [
+Thanks for: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
@@ -133,7 +133,7 @@ friends: [
     #     title: "尹峰以为",
     #     href: "http://ingf.github.io/"
     # },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "Hux",
+        href: "http://hux.me/"
     }
 ]
