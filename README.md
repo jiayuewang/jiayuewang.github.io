@@ -1,6 +1,6 @@
-# Hux Blog
+# Blog
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [View Sample Live Hux Blog &rarr;](https://huangxuan.me)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
