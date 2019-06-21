@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Some of my graduation pics with my lovely friends"
+title:      "Some of my graduation pics with my love"
 subtitle:   " \"Love you so much\""
 date:       2019-06-20 21:00:00
 author:     "Anna"
@@ -15,9 +15,10 @@ tags:
 
 
 **Graduation Pics**
+My favorite professor！
 ![](/img/ga/1.png)
 ![](/img/ga/2.png)
-![](/img/ga/3.png)
+
 ![](/img/ga/8.png)
 ![](/img/ga/9.png)
 ![](/img/ga/10.png)
