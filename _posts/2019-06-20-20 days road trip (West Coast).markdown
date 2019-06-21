@@ -14,7 +14,7 @@ tags:
 > “I love traveling with my family ”
 
 
-##20 days road trip (West Coast) in the U.S.##
+**20 days road trip (West Coast) in the U.S.**
 
 I have just finished 20-day road trip in US with my family. We begain from Los Angeles
 Follow the route:
