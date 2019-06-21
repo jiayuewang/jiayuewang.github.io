@@ -1,0 +1,52 @@
+---
+layout:     keynote
+title:      "National Patents"
+subtitle:   "🎞  I awarded Three national patents when I was in China "
+date:       2019-06-20 21:00:00
+author:     "Anna"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Slides
+    - Web
+    - PWA
+---
+
+
+> 下滑这里查看更多内容
+
+
+<!-- ### [Watching Fullscreen →](https://huangxuan.me/pwa-qcon2016/)
+
+### [Watching Video →](http://www.infoq.com/cn/presentations/progressive-web-app)
+
+<div class="visible-md visible-lg">
+    <img src="//huangxuan.me/pwa-qcon2016/attach/qrcode.png" width="350" />
+    <small class="img-hint">Scanning on mobile</small>
+</div>
+
+ -->
+### I awarded Three national Patents when I was an undergraduate students.
+
+In First Author 
+
+1. Robot double-fed asynchronization wind driven generator 
+![](/img/ga/11.png)
+2. Energy-saving oil-immersed three-phase transformer 
+![](/img/ga/11.png)
+3. A kind of non-contact Carcharging parking shed created based on Magnetic Resonance 
+![](/img/ga/11.png)
+
+### Three consecutive years of national scholarships,2015,2016,2017 
+### America Mathematical Competition Modeling First Prize 2016, Second Prize 2017 
+### Four National Paper in Electrical engineering 2014,2015,2016 
+1. Electronical Engineering and Information Processing(ISEEIP2016), IS132. 
+2. Research on Power Grid Transmission Line Construction Technology, Magazine of China High Tech Enterprise, 2016(11) Key Words: Electrical Engineering; Power Transmission Line; Network Security 
+3. Analysis on the Intelligent Technology Application on Electrical Engineering Automation, China Science & Technology Panorama Magazine, 2014(10) Key Words: Electrical Intelligent, Artificial Intelligence 
+4. The Engine Temperature Real-time Monitoring Instrument Based on Microcontroller, International Symposium on Electronical system 
+
+
+
+
+
+
