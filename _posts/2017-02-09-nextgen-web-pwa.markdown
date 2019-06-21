@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Some of my graduation pics with my lovely friends"
+title:      "Some of my graduation pics with my love"
 subtitle:   " \"Love you so much\""
 date:       2019-06-20 21:00:00
 author:     "Anna"
@@ -15,10 +15,11 @@ tags:
 
 
 **Graduation Pics**
+**My favorite Prof.**
 ![](/img/ga/1.png)
 ![](/img/ga/2.png)
-![](/img/ga/3.png)
 ![](/img/ga/8.png)
+没有PS的我好丑阿！！！！！！！
 ![](/img/ga/9.png)
 ![](/img/ga/10.png)
 
@@ -46,8 +47,7 @@ The university-wide Commencement ceremony is the official University of Illinois
 ![](/img/ga/y5.png)
 ![](/img/ga/y6.png)
 
-
-**Chicago Vies**
+**Chicago Views with my Dad**
 ![](/img/ga/z1.png)
 ![](/img/ga/z2.png)
 ![](/img/ga/z3.png)
@@ -56,8 +56,6 @@ The university-wide Commencement ceremony is the official University of Illinois
 ![](/img/ga/z6.png)
 ![](/img/ga/z7.png)
 ![](/img/ga/z8.png)
-
-
 
 **Previous Pics**
 ![](/img/ga/5.png)
@@ -69,16 +67,11 @@ The university-wide Commencement ceremony is the official University of Illinois
 <p id = "build"></p>
 ---
 
-## .
+
 
 
 ---
 
 
-
-
-## Acknowledge
-
-Thanks for the blog version from Hux!
 
 
