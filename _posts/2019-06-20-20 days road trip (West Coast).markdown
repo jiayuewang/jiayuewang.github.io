@@ -27,20 +27,20 @@ Highway 1 - Los Angeles - SF - Yosemite -Sequoia & Kings Canyon National Parks -
 Day 1-4 LOS ANGELES
 ![](/img/20.png)
 My mom and aunt are twin sisters.
-![](/img/29.png)
-![](/img/28.png)
-![](/img/21.png)
-![](/img/22.png)
-![](/img/23.png)
-![](/img/24.png)
-![](/img/25.png)
-![](/img/26.png)
-![](/img/27.png)
+![](/img/ca/29.png)
+![](/img/ca/28.png)
+![](/img/ca/21.png)
+![](/img/ca/22.png)
+![](/img/ca/23.png)
+![](/img/ca/24.png)
+![](/img/ca/25.png)
+![](/img/ca/26.png)
+![](/img/ca/27.png)
 
 
 Our route
 ![](/img/ca/1.jpg)
-![](/img/18.png)
+![](/img/ca/18.png)
 
 
 Day 5-8 Route one from Los Angeles to San Francisco
