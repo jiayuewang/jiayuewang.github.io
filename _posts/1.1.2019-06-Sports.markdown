@@ -1,0 +1,48 @@
+---
+layout:     post
+title:      "Some of my graduation pics with my lovely friends"
+subtitle:   " \"My mom and my aunt are twin sisters\""
+date:       2019-06-20 21:00:00
+author:     "Anna"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Life
+    - Meta
+---
+
+> “waiting for the update ”
+![](/img/sp/1.png)
+**Graduation Pics**
+![](/img/sp/sf1.png)
+![](/img/sp/sf2.png)
+![](/img/sp/sf3.png)
+![](/img/sp/sf4.png)
+![](/img/sp/sf5.png)
+![](/img/sp/sf6.png)
+![](/img/sp/sf7.png)
+![](/img/sp/sf8.png)
+
+
+**Visiting Twitter**
+![](/img/sp/3.png)
+![](/img/sp/4.png)
+![](/img/sp/5.png)
+
+
+
+
+<p id = "build"></p>
+---
+
+## .
+
+
+---
+
+
+
+
+## Acknowledge
+
+Thanks for the blog version from Hux!
