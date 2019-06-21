@@ -25,7 +25,7 @@ Highway 1 - Los Angeles - SF - Yosemite -Sequoia & Kings Canyon National Parks -
 
 
 Day 1-4 LOS ANGELES
-![](/img/20.png)
+![](/img/ca/20.png)
 My mom and aunt are twin sisters.
 ![](/img/ca/29.png)
 ![](/img/ca/28.png)
