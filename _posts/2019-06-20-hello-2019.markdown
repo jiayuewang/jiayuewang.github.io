@@ -14,7 +14,7 @@ tags:
 > “Yeah It's on. ”
 
 
-## Background
+##Background
 
 Welcome to Anna's blog.
 
@@ -39,7 +39,7 @@ In my spare time, I enjoy learning about all the sports, especially Swimming, Sk
 <p id = "build"></p>
 ---
 
-## Working Experiences in the U.S.
+##Working Experiences in the U.S.
 
 ** July 2019** Google
 Location: San Francisco Bay Area - Mountain View
@@ -74,7 +74,7 @@ Location: San Francisco Bay Area
 
 
 
-## Acknowledge
+##Acknowledge
 
 Thanks for the blog version from Hux!
 
