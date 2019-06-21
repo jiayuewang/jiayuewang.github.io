@@ -30,9 +30,8 @@ I love learning new technologies. I believe innovation is the core of progress a
 
 In my spare time, I enjoy learning about all the sports, especially Swimming, Skiing, Running. I take part in Half Marathon every year. I also enjoy dancing, ice skating etc. I think sports and food are my life. I love traveling, I have been to more than 20 big cities around the world and keep going. 
 ![](/img/myfriends.jpg)
-![](/img/myfriends2.jpg)
 
-** July 2018** 
+** July 2019** 
 
 
 
@@ -43,14 +42,14 @@ In my spare time, I enjoy learning about all the sports, especially Swimming, Sk
 
 ** July 2019** Google
 Location: San Francisco Bay Area - Mountain View
-![](/img/gg.jpg)
-waiting for the update!
 
+waiting for the update!
+![](/img/gg.jpg)
 
 
 
 ** Aug 2018 – May 2019 ** Graduate Researcher, Software Engineer
-![](/img/w1.jpg)
+
 NameNational Center for Supercomputing Applications 
 Employment Duration: 10 mos
 Location: Urbana-Champaign, Illinois Area
@@ -58,17 +57,17 @@ Research projects in two Labs.
 Face recognition emoji Project and Cracking recognition Project based on AWS.
 - Partner with brands Amazon AWS, Creating a WebApp for the campus, an academic success tracker for students, some social media analytics tools and a video recognition tool.
 - Express.js as RESTful API Server, Configure Mongoose.js
-
+![](/img/w1.jpg)
 
 
 ** May 2018 – Aug 2018 ** Software Engineer intern
-![](/img/w2.jpg)
+
 Employment Duration: 3 mos
 Location: San Francisco Bay Area
 - Implemented 3D visualization applications on the frontier of web technologies, using and developing bleeding-edge tooling
 - Compression Algorithms on CNN, AlexNet and VGGNet with ImageNet 35X~50X. including weights sharing and Huffman coding. (TensorFlow, Python, Caffe, Python, Linux) and did visualization
 - Tensorflow.js. Use pre-trained Machine Learning models and retrain them to fit user-specific data
-
+![](/img/w2.jpg)
 ---
 
 
