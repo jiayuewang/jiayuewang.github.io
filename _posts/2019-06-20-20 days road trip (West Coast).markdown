@@ -69,7 +69,8 @@ Next, we followed the signs for California State Route 1 North.
 ![](/img/ca/62.png)
 
 **Hearst Castle**
-![](/img/ca/61.png)
+![](/img/ca/113.png)
+Follow the Highway
 ![](/img/ca/58.png)
 ![](/img/ca/51.png)
 **Santa Barbara**
@@ -79,7 +80,7 @@ Next, we followed the signs for California State Route 1 North.
 ![](/img/ca/58.png)
 ![](/img/ca/54.png)
 **MALIBU**
-![](/img/4.jpg)
+![](/img/ca/4.jpg)
 
 **Solvang**
 ![](/img/ca/70.png)
@@ -136,21 +137,23 @@ Stop at the nearest sustainable seafood spot for an ultra-fresh meal.
 
 **Big Sur**
 ![](/img/ca/5.png)
+Big Sur is a rugged and mountainous section of the Central Coast of California between Carmel Highlands and San Simeon, where the Santa Lucia Mountains rise abruptly from the Pacific Ocean.
+
 **Piedras Blancas Elephant Seal Rookery!!!**
 ![](/img/ca/6.png)
+This stretch of beach along California's central coast is a busy highway for the largest seal in the northern hemisphere. 
 ![](/img/ca/7.png)
 ![](/img/ca/8.png)
 ![](/img/ca/9.png)
 ![](/img/ca/10.png)
 
-**One of our Airbnb**
+**One of our Airbnbs**
 ![](/img/ca/46.png)
 They go to sleep with me.
 ![](/img/ca/47.png)
 Lol
 ![](/img/ca/48.png)
 I love them :D
-![](/img/ca/49.png)
 
 **17-Mile Drive**
 ![](/img/ca/11.png)
@@ -169,44 +172,51 @@ Colorful native wildflowers dot the scene, adorning the cool, soothing hues of t
 **The highest-profile bridge on the West Coast**
 ![](/img/ca/49.png)
 
+
 **Day 9-11 San Francisco**
-**Golden Gate Bridge**
 ![](/img/ca/30.png)
+**Golden Gate Bridge**
+![](/img/ca/32.png)
 The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean.
 ![](/img/ca/31.png)
 It has been declared one of the Wonders of the Modern World by the American Society of Civil Engineers
 ![](/img/ca/33.png)
-![](/img/ca/32.png)
+**Lombard Street**
 ![](/img/ca/34.png)
+Lombard Street is an east–west street in San Francisco, California that is famous for a steep, one-block section with eight hairpin turns. 
 ![](/img/ca/35.png)
-**Google**
+The famous one-block section, claimed to be "the crookedest street in the world", is located along the eastern segment in the Russian Hill neighborhood.
 ![](/img/ca/36.png)
-**Stanford University**
+**Google**
 ![](/img/ca/37.png)
+**Stanford University**
 ![](/img/ca/38.png)
 ![](/img/ca/39.png)
 
-
-
 **Day 12-13 Yosemite**
-
-waiting......
+![](/img/ca/107.png)
+![](/img/ca/108.png)
+An American national park located in the western Sierra Nevada of Central California, bounded on the southeast by Sierra National Forest and on the northwest by Stanislaus National Forest. 
+![](/img/ca/109.png)
+![](/img/ca/106.png)
 
 **Day 14-15 Sequoia & Kings Canyon National Parks**
 ![](/img/ca/40.png)
 ![](/img/ca/41.png)
-
-**General Sherman Tree**
 ![](/img/ca/42.png)
 
+**General Sherman Tree**
+![](/img/ca/110.png)
+![](/img/ca/111.png)
 **Grant Grove**
-![](/img/ca/43.png)
+![](/img/ca/112.png)
+Grant Grove makes up the western portion of Kings Canyon National Park and is home to the General Grant Tree, a.k.a. "The Nation's Christmas Tree."
 
 **Kings Canyon Scenic Byway**
 ![](/img/ca/44.png)
 
 **Day 16-17 Visalia**
-
+![](/img/ca/43.png)
 **Day 18-20 Back to LA**
 
 **Day 21 from LA back home**
