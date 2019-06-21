@@ -80,7 +80,7 @@ Follow the Highway
 ![](/img/ca/58.png)
 ![](/img/ca/54.png)
 **MALIBU**
-![](/img/ca/4.jpg)
+![](/img/ca/4.png)
 
 **Solvang**
 ![](/img/ca/70.png)
