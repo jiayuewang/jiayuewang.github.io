@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "2015-16Traveling in Asia"
-subtitle:   " \"Travel to Japan, Korea and Taiwan""
+subtitle:   " \"Travel to Japan, Korea and Taiwan\""
 date:       2019-06-28 21:00:00
 author:     "Anna"
 header-img: "img/post-bg-2015.jpg"
