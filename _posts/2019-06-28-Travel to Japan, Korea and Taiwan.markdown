@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2015 - 2016"
+title:      "2015-16Traveling in Asia"
 subtitle:   " \"Travel to Japan, Korea and Taiwan""
 date:       2019-06-28 21:00:00
 author:     "Anna"
@@ -14,22 +14,20 @@ tags:
 > “I love traveling with my family ”
 
 
-**Travel in Asian Countries**
+****
 
 **1, Japan**
 **Route overview**
 **Tokyo → Kyoto → Nara → Osaka**
 **Concentrate on sightseeing in and around Tokyo's Chiyoda-ku, visit the Imperial Palace in the morning, and visit Ginza in the afternoon.**
 ![](/img/jp/9.png)
-![](/img/jp/10.png)
 ![](/img/jp/11.png)
 ![](/img/jp/12.png)
-![](/img/jp/13.png)
 
 **小樽 → 札幌 → 旭川市 → 美瑛町 → 富良野 → 星野 → 札幌**
 ![](/img/jp/1.png)
-![](/img/ca/2.png)
-![](/img/ca/42.png)
+![](/img/jp/2.png)
+![](/img/jp/42.png)
 
 **小樽**
 从札幌往返小樽一日，小樽运河最美的景色当属夜幕降临的时刻，柔和的灯光下，波光粼粼更显得浪漫温馨。再去逛逛小樽八音乐盒博物馆，3000多种类型不一的音乐盒，可以选择一首自己喜欢的歌，DIY一个独一无二的音乐盒。一定不要错过二楼的博物馆，里面有很多年代久远、各个国家的音乐盒、工艺品、玩偶可以让你一饱眼福。
@@ -51,7 +49,7 @@ tags:
 
 
 **2, Korea**
-![](/img/ca/43.png)
+![](/img/jp/43.png)
 **SEOUL**
 
 **暴走首尔经典五日游
